@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "857343851455",
+    "project_id": "milnii",
+    "storage_bucket": "milnii.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857343851455:android:8f344389fe1d436c3f7f0a",
+        "android_client_info": {
+          "package_name": "com.dev.milnii"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVHVEzhdkBN1dytGC4nPJAYdlVZS-6tGc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

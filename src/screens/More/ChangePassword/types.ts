@@ -1,0 +1,1 @@
+export type TMoreStackChangePasswordParams = undefined

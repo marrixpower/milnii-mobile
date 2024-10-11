@@ -1,0 +1,1 @@
+export type TVendorStackMainParams = undefined
